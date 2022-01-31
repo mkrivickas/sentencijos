@@ -1,3 +1,7 @@
+body {
+	height: 100vh;
+}
+
 img {
 	/* border: 2px solid black; */
 }
@@ -29,5 +33,5 @@ footer {
 .sentencija {
 	position: relative;
 	margin-top: 5vh;
-	height: 40vh;
+	height: 60vh;
 }
